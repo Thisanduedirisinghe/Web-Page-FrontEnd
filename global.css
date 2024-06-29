@@ -1,0 +1,50 @@
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+:root {
+  	
+  	/* fonts */
+  	--subheading: Inter;
+  	--font-joti-one: 'Joti One';
+  	--font-amethysta: Amethysta;
+  	--font-abhaya-libre-semibold: 'Abhaya Libre SemiBold';
+  	--font-aclonica: Aclonica;
+  	--font-keania-one: 'Keania One';
+  	
+  	/* font sizes */
+  	--subheading-size: 24px;
+  	--font-size-13xl: 32px;
+  	--font-size-7xl: 26px;
+  	--font-size-16xl: 35px;
+  	--font-size-25xl: 44px;
+  	
+  	/* Colors */
+  	--color-white: #fff;
+  	--color-black: #000;
+  	--color-gray-100: #121010;
+  	--color-gray-200: rgba(248, 251, 250, 0.85);
+  	--color-gray-300: rgba(0, 0, 0, 0.8);
+  	--color-gray-400: rgba(0, 0, 0, 0.6);
+  	--color-dimgray-100: #6c6774;
+  	--color-dimgray-200: #5d5f64;
+  	--color-darkslategray: #044325;
+  	
+  	/* Spacing */
+  	--spacing-m: 48px;
+  	--spacing-sm: 32px;
+  	
+  	/* Paddings */
+  	--padding-13xl: 32px;
+  	
+  	/* Border radiuses */
+  	--br-9xs: 4px;
+  	--br-xl: 20px;
+  	--br-xs: 12px;
+  	--br-11xl: 30px;
+  	--br-107xl: 126px;
+  	
+}
